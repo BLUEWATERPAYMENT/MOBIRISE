@@ -320,7 +320,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/ezgif.com-video-to-gif-1-copy-5.gif",
+                "image": "@PROJECT_PATH@/assets/images/vibrantlonelyhyracotherium.gif",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
